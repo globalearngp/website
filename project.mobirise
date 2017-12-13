@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 31,
+    "uniqCompNum": 33,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -638,6 +638,67 @@
         },
         {
           "_params": {
+            "fullWidth": true,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/v2folderthumb-472x354-subjects-digital-citizenship-472x354.png",
+                "thumb": "@PROJECT_PATH@/assets/images/v2folderthumb-472x354-subjects-digital-citizenship-472x354-472x354.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/v2folderthumb-472x354-subjects-digital-math-472x354.png",
+                "thumb": "@PROJECT_PATH@/assets/images/v2folderthumb-472x354-subjects-digital-math-472x354-472x354.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/v2folderthumb-472x354-subjects-digital-science-472x354.png",
+                "thumb": "@PROJECT_PATH@/assets/images/v2folderthumb-472x354-subjects-digital-science-472x354-472x354.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/v2folderthumb-472x354-subjects-digital-ela-472x354.png",
+                "thumb": "@PROJECT_PATH@/assets/images/v2folderthumb-472x354-subjects-digital-ela-472x354-472x354.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/v2folderthumb-472x354-subjects-digital-social-studies-472x354.png",
+                "thumb": "@PROJECT_PATH@/assets/images/v2folderthumb-472x354-subjects-digital-social-studies-472x354-472x354.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1510505843070-472x354.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1510505843070-472x354-472x354.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-v"
+        },
+        {
+          "_params": {
             "firstType": "blue",
             "secondType": "green",
             "thirdType": "favorite",
@@ -722,6 +783,58 @@
           ],
           "_name": "social-buttons2",
           "_anchor": "social-buttons2-p"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/ab23fa-cdb858d6dfa748bb8007a0bc8ae9cbcf-mv2-403x217.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ab23fa-cdb858d6dfa748bb8007a0bc8ae9cbcf-mv2-403x217-403x217.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ab23fa-cf701c10de9d491bb7d6c0759ad547f3-mv2-403x217.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ab23fa-cf701c10de9d491bb7d6c0759ad547f3-mv2-403x217-403x217.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ab23fa-a980ae192b26473b900c5c91afeeefe5-mv2-403x217.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ab23fa-a980ae192b26473b900c5c91afeeefe5-mv2-403x217-403x217.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ab23fa-ac7823085b764ba993fe82dea8002b84-mv2-403x217.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ab23fa-ac7823085b764ba993fe82dea8002b84-mv2-403x217-403x217.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ab23fa-70aafd8b515c4994bf5409d4df2f3e9e-mv2-403x217.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ab23fa-70aafd8b515c4994bf5409d4df2f3e9e-mv2-403x217-403x217.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-w"
         },
         {
           "_params": {
@@ -853,7 +966,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/125-1600x900.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -864,7 +977,7 @@
               },
               {
                 "image": "images/slide3.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
