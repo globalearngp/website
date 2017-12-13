@@ -433,7 +433,9 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#eb6b56"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#eb6b56"
+            },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             }
@@ -444,7 +446,7 @@
             "showButtons": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": true,
+            "transparent": false,
             "color": "#eb6b56",
             "hamburgerColor": "#ffffff"
           },
@@ -466,7 +468,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "_tags": [
             "Theme"
           ],
@@ -982,7 +984,7 @@
             "showButtons": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": true,
+            "transparent": false,
             "color": "#eb6b56",
             "hamburgerColor": "#ffffff"
           },
@@ -1004,7 +1006,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "_tags": [
             "Theme"
           ],
