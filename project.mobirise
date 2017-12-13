@@ -636,7 +636,7 @@
         },
         {
           "_params": {
-            "firstType": "default",
+            "firstType": "blue",
             "secondType": "green",
             "thirdType": "favorite",
             "fourthType": "orange",
@@ -657,7 +657,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "体验\n",
+          "title1": "ONE MONTH TRIAL",
           "currency1": "$",
           "price1": "100",
           "period1": "",
@@ -669,7 +669,7 @@
           "period2": "per YEAR",
           "list2": "<ul><li><b>80 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>20 GB</b> Bandwidth</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
-          "title3": "PREMIUM",
+          "title3": "FAMILY",
           "currency3": "$",
           "price3": "0",
           "period3": "per month",
@@ -691,7 +691,14 @@
             "Theme"
           ],
           "_name": "pricing-table1",
-          "_anchor": "pricing-table1-k"
+          "_anchor": "pricing-table1-k",
+          "_styles": {
+            "H3": {
+              "font-size": "21px",
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            }
+          }
         },
         {
           "_params": {

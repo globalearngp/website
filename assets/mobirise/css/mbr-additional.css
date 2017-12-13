@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
+
 @isPublish: true;
 
 #menu1-e {
@@ -490,6 +492,10 @@ padding-bottom: (@paddingBottom * 15px);
 }
 
 #pricing-table1-k {
+H3 {
+  font-size: 21px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
 }
 
 #social-buttons2-p {
