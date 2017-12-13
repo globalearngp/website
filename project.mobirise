@@ -573,7 +573,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/125-1600x900.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/w1-864x540.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
