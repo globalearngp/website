@@ -509,6 +509,18 @@ H3 {
 
 #contacts3-q {
 }
+
+#msg-box4-x {
+.mbr-header__text {
+  color: #ffffff;
+}
+.mbr-header__subtext {
+  color: #ffffff;
+}
+.mbr-article {
+  color: #ffffff;
+}
+}
 #menu-h .mbr-brand__name {
   font-size: 16px;
 }
