@@ -433,20 +433,18 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#eb6b56"
             },
-            ".mbr-navbar__section": {
-              "background": "#eb6b56"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             }
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
-            "showButtons": false,
+            "showBrand": false,
+            "showButtons": true,
             "sticky": true,
-            "collapsed": false,
-            "transparent": false,
+            "collapsed": true,
+            "transparent": true,
             "color": "#eb6b56",
             "hamburgerColor": "#ffffff"
           },
@@ -980,11 +978,11 @@
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
-            "showButtons": false,
+            "showBrand": false,
+            "showButtons": true,
             "sticky": true,
-            "collapsed": false,
-            "transparent": false,
+            "collapsed": true,
+            "transparent": true,
             "color": "#eb6b56",
             "hamburgerColor": "#ffffff"
           },
